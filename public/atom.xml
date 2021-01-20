@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">Hugo 主题 MemE</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2021-01-20T21:18:00&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>reuixiy</name>
+            <uri>https://example.com/</uri>
+            
+                <email>reuixiy@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">第二篇博文</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/" />
+            <id>https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</id>
+            <updated>2021-01-20T19:57:21&#43;08:00</updated>
+            <published>2021-01-20T19:56:24&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">code Test 1 $ sudo ls -a</summary>
+            
+                <content type="html">&lt;h2 id=&#34;code-test&#34;&gt;code Test&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ sudo ls -a
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">中文名测试</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/" />
+            <id>https://example.com/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</id>
+            <updated>2021-01-20T18:55:19&#43;08:00</updated>
+            <published>2021-01-20T18:52:36&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">这是一个中文的博客 测试行内代码python是一个很帮的语言 二级标题 添加一些内容</summary>
+            
+                <content type="html">&lt;h1 id=&#34;这是一个中文的博客&#34;&gt;这是一个中文的博客&lt;/h1&gt;
+&lt;p&gt;测试行内代码&lt;code&gt;python&lt;/code&gt;是一个很帮的语言&lt;/p&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;p&gt;添加一些内容&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">感谢你hugo&amp;netlify</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/hello/" />
+            <id>https://example.com/posts/hello/</id>
+            <updated>2021-01-20T18:53:54&#43;08:00</updated>
+            <published>2021-01-20T16:10:49&#43;08:00</published>
+            <author>
+                    <name>reuixiy</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>reuixiy@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">This is my first Blog. Hello World!</summary>
+            
+                <content type="html">&lt;h2 id=&#34;this-is-my-first-blog&#34;&gt;This is my first Blog.&lt;/h2&gt;
+&lt;p&gt;Hello World!&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
