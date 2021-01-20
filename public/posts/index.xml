@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 易龙的博客</title>
+    <link>https://36rocky.netlify.app/posts/</link>
+    <description>Recent content in Posts on 易龙的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 20 Jan 2021 18:52:36 +0800</lastBuildDate><atom:link href="https://36rocky.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>中文名测试</title>
+      <link>https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Wed, 20 Jan 2021 18:52:36 +0800</pubDate>
+      
+      <guid>https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</guid>
+      <description>这是一个中文的博客 测试行内代码python是一个很帮的语言
+二级标题 添加一些内容</description>
+    </item>
+    
+    <item>
+      <title>感谢你hugo&amp;netlify</title>
+      <link>https://36rocky.netlify.app/posts/hello/</link>
+      <pubDate>Wed, 20 Jan 2021 16:10:49 +0800</pubDate>
+      
+      <guid>https://36rocky.netlify.app/posts/hello/</guid>
+      <description>This is my first Blog. Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
