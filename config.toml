@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"
+title = "易龙的博客"
+theme = "m10c"
+
+
+author= "Yilong"
+description= "No crying baby.."
+
+menu_item_separator= "|"
+
+
+
