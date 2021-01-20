@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2021-01-20T21:16:02+08:00</lastmod>
+    <loc>https://36rocky.netlify.app/about/</loc>
+    <lastmod>2021-01-20T21:17:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-01-20T21:16:02+08:00</lastmod>
+    <loc>https://36rocky.netlify.app/</loc>
+    <lastmod>2021-01-20T21:17:10+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://36rocky.netlify.app/posts/</loc>
     <lastmod>2021-01-20T19:57:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
+    <loc>https://36rocky.netlify.app/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</loc>
     <lastmod>2021-01-20T19:57:21+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2021-01-20T18:55:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hello/</loc>
-    <lastmod>2021-01-20T18:53:54+08:00</lastmod>
+    <loc>https://36rocky.netlify.app/posts/hello/</loc>
+    <lastmod>2021-01-20T18:56:05+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://36rocky.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://36rocky.netlify.app/tags/</loc>
   </url>
   
 </urlset>
