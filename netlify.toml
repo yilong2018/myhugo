@@ -28,3 +28,12 @@ HUGO_VERSION = "0.80.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+
+[[redirects]]
+  from = "/"
+  to = "/posts"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["cn"], Country = ["China"], Role = ["admin"]}
