@@ -48,11 +48,13 @@ uglyURLs = false
 [permalinks]
     categories = "/categories/:slug/"
     tags = "/tags/:slug/"
+    series = "/series/:slug/"
 
 # 类别
 [taxonomies]
     category = "categories"
     tag = "tags"
+    series = "series"
 
 # 修改时间
 [frontmatter]
@@ -187,9 +189,9 @@ uglyURLs = false
     [[menu.main]]
         url = "/posts/"
         name = "文章"
-        weight = 3
+        weight = 2
         pre = "internal"
-        post = "wpexplorer"
+        post = "archive"
         identifier = "posts"
     [[menu.main]]
         url = "/tags/"
@@ -205,7 +207,14 @@ uglyURLs = false
         pre = "internal"
         post = "th"
         identifier = "categories"
-  
+    [[menu.main]]
+        url = "/series/"
+        name = "系列"
+        weight = 5
+        pre = "internal"
+        post = "series"
+        identifier = "series"
+
     [[menu.main]]
         url = "/blogroll/"
         name = "友链"
@@ -320,8 +329,8 @@ uglyURLs = false
     # 以文字的形式显示，下方可配置字号和字色。字
     # 体请到底部的字体部分配置。单位：em。
     siteBrandFontSize = 2
-    siteBrandFontColor = "#fff"
-    # siteBrandFontColor = "var(--color-contrast-high)"
+    # siteBrandFontColor = "#fff"
+    siteBrandFontColor = "var(--color-contrast-high)"
 
 
     ######################################

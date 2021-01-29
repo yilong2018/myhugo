@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">天高任鸟飞</title>
     <subtitle type="html">Yilong&#39;s Blog</subtitle>
-    <updated>2021-01-20T22:19:27&#43;08:00</updated>
+    <updated>2021-01-29T07:47:56&#43;08:00</updated>
     <id>https://36rocky.netlify.app/</id>
     <link rel="alternate" type="text/html" href="https://36rocky.netlify.app/" />
     <link rel="self" type="application/atom&#43;xml" href="https://36rocky.netlify.app/atom.xml" />
@@ -16,100 +16,4 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</rights>
     <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
-        <entry>
-            <title type="text">第二篇博文</title>
-            <link rel="alternate" type="text/html" href="https://36rocky.netlify.app/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/" />
-            <id>https://36rocky.netlify.app/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</id>
-            <updated>2021-01-20T19:57:21&#43;08:00</updated>
-            <published>2021-01-20T19:56:24&#43;08:00</published>
-            <author>
-                    <name>易龙</name>
-                    <uri>https://36rocky.netlify.app/</uri>
-                    <email>yilong2018@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</rights><summary type="html">code Test 1 $ sudo ls -a</summary>
-            
-                <content type="html">&lt;h2 id=&#34;code-test&#34;&gt;code Test&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ sudo ls -a
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">中文名测试</title>
-            <link rel="alternate" type="text/html" href="https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/" />
-            <id>https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</id>
-            <updated>2021-01-20T18:55:19&#43;08:00</updated>
-            <published>2021-01-20T18:52:36&#43;08:00</published>
-            <author>
-                    <name>易龙</name>
-                    <uri>https://36rocky.netlify.app/</uri>
-                    <email>yilong2018@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</rights><summary type="html">这是一个中文的博客 测试行内代码python是一个很帮的语言 二级标题 添加一些内容</summary>
-            
-                <content type="html">&lt;h1 id=&#34;这是一个中文的博客&#34;&gt;这是一个中文的博客&lt;/h1&gt;
-&lt;p&gt;测试行内代码&lt;code&gt;python&lt;/code&gt;是一个很帮的语言&lt;/p&gt;
-&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
-&lt;p&gt;添加一些内容&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
-        <entry>
-            <title type="text">感谢你hugo&amp;netlify</title>
-            <link rel="alternate" type="text/html" href="https://36rocky.netlify.app/posts/hello/" />
-            <id>https://36rocky.netlify.app/posts/hello/</id>
-            <updated>2021-01-20T18:56:05&#43;08:00</updated>
-            <published>2021-01-20T16:10:49&#43;08:00</published>
-            <author>
-                    <name>易龙</name>
-                    <uri>https://36rocky.netlify.app/</uri>
-                    <email>yilong2018@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</rights><summary type="html">This is my first Blog. Hello World!</summary>
-            
-                <content type="html">&lt;h2 id=&#34;this-is-my-first-blog&#34;&gt;This is my first Blog.&lt;/h2&gt;
-&lt;p&gt;Hello World!&lt;/p&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
 </feed>

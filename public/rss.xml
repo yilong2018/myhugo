@@ -23,97 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</copyright>
         
-        <lastBuildDate>Wed, 20 Jan 2021 22:19:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2021 07:47:56 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://36rocky.netlify.app/rss.xml" />
         
-        
-            <item>
-                <title>第二篇博文</title>
-                <link>https://36rocky.netlify.app/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</link>
-                <guid isPermaLink="true">https://36rocky.netlify.app/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E6%96%87/</guid>
-                <pubDate>Wed, 20 Jan 2021 19:56:24 &#43;0800</pubDate>
-                
-                    <author>yilong2018@gmail.com (易龙)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</copyright>
-                
-                    <description>&lt;h2 id=&#34;code-test&#34;&gt;code Test&lt;/h2&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;$ sudo ls -a
-&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>中文名测试</title>
-                <link>https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</link>
-                <guid isPermaLink="true">https://36rocky.netlify.app/posts/%E4%B8%AD%E6%96%87%E5%90%8D%E6%B5%8B%E8%AF%95/</guid>
-                <pubDate>Wed, 20 Jan 2021 18:52:36 &#43;0800</pubDate>
-                
-                    <author>yilong2018@gmail.com (易龙)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</copyright>
-                
-                    <description>&lt;h1 id=&#34;这是一个中文的博客&#34;&gt;这是一个中文的博客&lt;/h1&gt;
-&lt;p&gt;测试行内代码&lt;code&gt;python&lt;/code&gt;是一个很帮的语言&lt;/p&gt;
-&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
-&lt;p&gt;添加一些内容&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>感谢你hugo&amp;netlify</title>
-                <link>https://36rocky.netlify.app/posts/hello/</link>
-                <guid isPermaLink="true">https://36rocky.netlify.app/posts/hello/</guid>
-                <pubDate>Wed, 20 Jan 2021 16:10:49 &#43;0800</pubDate>
-                
-                    <author>yilong2018@gmail.com (易龙)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</copyright>
-                
-                    <description>&lt;h2 id=&#34;this-is-my-first-blog&#34;&gt;This is my first Blog.&lt;/h2&gt;
-&lt;p&gt;Hello World!&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
